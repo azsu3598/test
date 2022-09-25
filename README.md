@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-# gitstudy05
-=======
-# test
-테스트
->>>>>>> a5e8d5bb9faef0a2aafc447a0cc53b1231d432a5
+<h1>테스트</h1>
+<h2>테스트용</h2>
